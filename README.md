@@ -12,7 +12,7 @@
 
 * `apt update && apt upgrade`
 
-* `pkg install git`
+* `pkg install git -y`
 
 * `git clone https://github.com/aviyt31622/Avi-os.git`
 
