@@ -10,9 +10,9 @@
 
 
 
-* `git clone https://github.com/h4ck3r0/Termux-os`
+* `git clone https://github.com/aviyt31622/Avi-os.git`
 
-* `cd Termux-os`
+* `cd Avi-os`
 
 * `bash os.sh`
 
