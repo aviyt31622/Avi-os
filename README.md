@@ -8,7 +8,11 @@
 
 ## Installation
 
+* `termux-setup-storage`
 
+* `apt update && apt upgrade`
+
+* `pkg install git`
 
 * `git clone https://github.com/aviyt31622/Avi-os.git`
 
