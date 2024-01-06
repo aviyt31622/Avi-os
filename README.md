@@ -18,6 +18,8 @@
 
 * `cd Avi-os`
 
+* `chmod +x *`
+
 * `bash os.sh`
 
 
