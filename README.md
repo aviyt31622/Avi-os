@@ -26,5 +26,5 @@
 ## Credits
 
 * [+] Credits to Oh My Zsh !
-* [+] HACKER ( AVI YT )
+* [+] AVI HACKER YT ( AVI YT )
 
